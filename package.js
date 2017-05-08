@@ -1,9 +1,9 @@
 Package.describe({
   summary: "Login service for Facebook (2.4) accounts (works with cordova)",
-  version: "0.0.6",
-  git: "https://github.com/btafel/accounts-facebook.git",
+  version: "0.0.7",
+  git: "https://github.com/darkbasic/accounts-facebook.git",
   author: "Bryan Tafel",
-  name: "btafel:accounts-facebook-cordova",
+  name: "darkbasic:accounts-facebook-cordova",
 });
 
 Package.on_use(function(api) {

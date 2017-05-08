@@ -7,8 +7,8 @@
 This packages replaces the accounts-facebook package. It works with [cordova-plugin-facebook4](https://github.com/jeduan/cordova-plugin-facebook4.git) when using cordova and falls back to the facebook package when in a browser. 
 
 ### Platforms Tested
-* [x] iOS
-* [ ] Android
+* [ ] iOS
+* [x] Android
 
 *Current status: Login works great! Working on abstracting the graph api calls so they work from both native sdk or http request .. although it may be better to just stick with http.*
 
